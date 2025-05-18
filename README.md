@@ -36,6 +36,3 @@ Download [`suits_viewership_report.html`](./suits_viewership_report.html) and op
 - Python 3.7+
 - Jupyter Notebook
 - `pandas`, `requests`, `beautifulsoup4`, `matplotlib`, `seaborn`
-
-```bash
-pip install -r requirements.txt
