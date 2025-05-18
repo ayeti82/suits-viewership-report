@@ -13,7 +13,7 @@ The analysis includes:
 
 ## 📂 Files
 
-- `suits_viewership_analysis.ipynb`: Jupyter Notebook with full code, plots, and markdown commentary.
+- `suits_viewership_report.ipynb`: Jupyter Notebook with full code, plots, and markdown commentary.
 - `suits_viewership_report.html`: Rendered HTML version of the report (for offline viewing).
 - `data/`: Contains cleaned `.csv` viewership data.
 
@@ -24,7 +24,7 @@ The analysis includes:
 You can view the report in one of the following ways:
 
 ### ✅ 1. **Preview the `.ipynb` notebook** on GitHub
-Just open [`suits_viewership_analysis.ipynb`](./suits_viewership_report.ipynb) in your browser to view code and output inline.
+Just open [`suits_viewership_report.ipynb`](./suits_viewership_report.ipynb) in your browser to view code and output inline.
 
 ### 💾 2. **Download the rendered HTML report**
 Download [`suits_viewership_report.html`](./suits_viewership_report.html) and open it in any web browser for a clean, code-free view.
